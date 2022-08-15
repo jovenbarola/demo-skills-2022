@@ -10,7 +10,7 @@ Summaries about me:
 
 ## Daily Time Record (with Screenshot capture)
 
-**Demo link:** https://dtr.jbarola.net 
+**Demo link:** http://dtr.jbarola.net 
 
 **Description:** This demo application purpose is to track remote-employee timelogs, and capture desktop activity of the employee.
 
@@ -34,7 +34,7 @@ Summaries about me:
 
 ## Daily Time Record (using QrCode)  [STILL DEVELOPMENT]
 
-**Demo link:** https://dtrqrcode.jbarola.net
+**Demo link:** http://dtrqrcode.jbarola.net
 
 **Application Structure:**
 
@@ -51,7 +51,7 @@ Summaries about me:
 
 ## Passenger, Tracking and Admin Dashboard [STILL DEVELOPMENT]
 
-**Demo link:** https://modernjeep.jbarola.net
+**Demo link:** http://modernjeep.jbarola.net
 
 **Application Structure:**
 
