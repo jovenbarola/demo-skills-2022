@@ -32,7 +32,7 @@ Summaries about me:
 
 <hr>
 
-## Daily Time Record (using QrCode)
+## Daily Time Record (using QrCode)  [STILL DEVELOPMENT]
 
 **Demo link:** https://dtrqrcode.jbarola.net
 
@@ -49,7 +49,7 @@ Summaries about me:
 
 <hr>
 
-## Passenger, Tracking and Admin Dashboard
+## Passenger, Tracking and Admin Dashboard [STILL DEVELOPMENT]
 
 **Demo link:** https://modernjeep.jbarola.net
 
