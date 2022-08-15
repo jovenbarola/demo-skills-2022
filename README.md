@@ -34,7 +34,7 @@ Summaries about me:
 
 ## Daily Time Record (using QrCode)  [STILL DEVELOPMENT]
 
-**Demo link:** http://dtrqrcode.jbarola.net
+**Demo link:** http://dtr.jbarola.net/employee/qrcodedtr
 
 **Application Structure:**
 
