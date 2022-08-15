@@ -18,12 +18,12 @@ Summaries about me:
 
 - **API backend**
   - Hosted in AWS EC2 (But can be hosted in Docker based server, or ElasticBeanstalk)
-  - Laravel
+  - Laravel 8.x
   - MySQL
 
 - **UI/Frontend**
   - Hosted in AWS S3 (But can be hosted in same server with Backend)
-  - Angular 14.x
+  - Angular 10.x
 
 - **Client-side Desktop application**
   - Windows Form C#
@@ -40,12 +40,12 @@ Summaries about me:
 
 - **API backend**
   - Hosted in AWS EC2 (But can be hosted in Docker based server, or ElasticBeanstalk)
-  - Laravel
+  - Laravel 8.x
   - MySQL
 
 - **UI/Frontend**
   - Hosted in AWS S3 (But can be hosted in same server with Backend)
-  - Angular 14.x
+  - Angular 10.x
 
 <hr>
 
